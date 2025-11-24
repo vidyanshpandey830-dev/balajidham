@@ -3,16 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>खेड़ा पाटे बालाजी धाम - हनुमान मंदिर</title>
-    <style>
-        body { font-family: 'Arial', sans-serif; margin: 0; padding: 0; background-color: #FFF8DC; } /* हल्का पीला-केसरिया बैकग्राउंड */
-        header { background-color: #FF9933; color: white; text-align: center; padding: 20px; }
-        nav { background-color: #CC6600; color: white; padding: 10px; text-align: center; } /* गहरा केसरिया */
-        nav a { color: white; margin: 0 15px; text-decoration: none; }
-        nav a:hover { color: #FFD700; } /* हॉवर पर सुनहरा */
-        section { padding: 20px; background-color: #FFF; border: 1px solid #FF9933; margin: 10px; }
-        footer { background-color: #FF9933; color: white; text-align: center; padding: 10px; }
-    </style>
 </head>
 <body>
     <header>
@@ -34,14 +24,7 @@
         <h2>मंदिर के बारे में</h2>
         <p>[वर्ष, जैसे २०११ ] में स्थापित, यह मंदिर भगवान हनुमान को दैनिक आरती, भजनों और सामुदायिक सेवाओं के साथ सम्मानित करता है। इसमें एक भव्य मूर्ति और शांतिपूर्ण परिवेश है।</p>
     </section>
-<section id="वीडियो ">
-  <h2>वीडियो दर्शन</h2>
-  <video width="320" height="240" controls>
-    <source src="cp11.mp4" type="video/mp4">
-    आपका ब्राउज़र यह वीडियो सपोर्ट नहीं करता।
-  </video>
 </section>
-
     <section id="events">
         <h2>आगामी कार्यक्रम</h2>
         <ul>
